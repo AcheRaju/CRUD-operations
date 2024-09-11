@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-NP
+
 const alienSchema = new mongoose.Schema({
     Moviename: {
         type: String,
